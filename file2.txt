@@ -1,3 +1,0 @@
-
-Hi This is the second file.
-Added 2nd line in second file.
